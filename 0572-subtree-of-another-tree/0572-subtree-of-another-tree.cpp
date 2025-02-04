@@ -21,7 +21,7 @@ private:
         return a && b;
     }    
 public:
-    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+    bool isSubtree(TreeNode* &root, TreeNode* &subRoot) {
         if (root==NULL) return false;
         if(isSame(root,subRoot)) return true;
 
