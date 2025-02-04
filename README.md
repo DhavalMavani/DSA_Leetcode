@@ -560,6 +560,7 @@
 | [0437-path-sum-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0437-path-sum-iii) |
 | [0472-concatenated-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0472-concatenated-words) |
 | [0514-freedom-trail](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0514-freedom-trail) |
+| [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
 | [0685-redundant-connection-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0744-network-delay-time) |
@@ -715,6 +716,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0863-sum-of-distances-in-tree) |
 | [1008-binary-tree-cameras](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1008-binary-tree-cameras) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -764,6 +766,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
 | [1008-binary-tree-cameras](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1008-binary-tree-cameras) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2597-cycle-length-queries-in-a-tree) |
@@ -1177,4 +1180,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0380-insert-delete-getrandom-o1) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
