@@ -223,6 +223,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0833-bus-routes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0833-bus-routes) |
 | [0883-car-fleet](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0883-car-fleet) |
+| [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0909-stone-game) |
@@ -306,6 +307,7 @@
 | [0732-my-calendar-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0732-my-calendar-iii) |
 | [0794-swim-in-rising-water](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1087-longest-arithmetic-subsequence) |
 | [1290-make-array-strictly-increasing](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1290-make-array-strictly-increasing) |
 | [1294-range-frequency-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1294-range-frequency-queries) |
@@ -464,6 +466,7 @@
 | [0692-top-k-frequent-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0746-prefix-and-suffix-search) |
 | [0833-bus-routes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0833-bus-routes) |
+| [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0960-minimize-malware-spread](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0964-minimize-malware-spread-ii) |
@@ -644,6 +647,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0523-continuous-subarray-sum) |
+| [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
 | [0909-stone-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0909-stone-game) |
 | [0956-number-of-music-playlists](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0956-number-of-music-playlists) |
 | [0976-minimum-area-rectangle](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0976-minimum-area-rectangle) |
@@ -890,6 +894,7 @@
 | [0692-top-k-frequent-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0692-top-k-frequent-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0883-car-fleet](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0883-car-fleet) |
+| [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
 | [0948-sort-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0948-sort-an-array) |
 | [0976-minimum-area-rectangle](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0976-minimum-area-rectangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1019-squares-of-a-sorted-array) |
@@ -1199,6 +1204,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
 ## String Matching
 |  |
 | ------- |
