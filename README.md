@@ -273,6 +273,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2176-parallel-courses-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2176-parallel-courses-iii) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -659,6 +660,7 @@
 | [1788-stone-game-vi](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1808-stone-game-vii) |
 | [2002-stone-game-viii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2002-stone-game-viii) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2383-add-two-integers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2383-add-two-integers) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -869,6 +871,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [3151-minimum-processing-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3151-minimum-processing-time) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -908,6 +911,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
 | [3151-minimum-processing-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3151-minimum-processing-time) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3485-maximize-score-of-numbers-in-ranges) |
