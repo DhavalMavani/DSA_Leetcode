@@ -10,18 +10,18 @@ public:
             for(int j=0;j<limits[i];j++ ){
                 if(pq.size()==k){
                     if(pq.top()<grid[i][j]){
+                        sum-=pq.top();
                         pq.pop();
                         pq.emplace(grid[i][j]);
+                        sum+=grid[i][j];
                     } 
                 }
-                else pq.emplace(grid[i][j]);
+                else{
+                    pq.emplace(grid[i][j]);
+                    sum+=grid[i][j];
+                } 
             } 
         }
-
-        while(!pq.empty()){
-            sum+=pq.top();
-            pq.pop();
-        } 
 
         return sum;
     }
