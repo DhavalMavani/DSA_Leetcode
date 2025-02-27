@@ -22,10 +22,11 @@ public:
             if(i==parent) continue;
             price=max(price, aliceDfs(i,node,time+1,bobTime,adj,amount));
         }
+
         if(price==INT_MIN) price=0;
         
-        if(time<bobTime[node] ) price+=amount[node];
-        else if(time==bobTime[node]) price+= (amount[node]/2);
+        if(time<bobTime[node] ) return price+=amount[node];
+        else if(time==bobTime[node]) return price+= (amount[node]/2);
 
         return price;
     }
