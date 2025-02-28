@@ -488,6 +488,7 @@
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Dynamic Programming
 |  |
@@ -667,6 +668,7 @@
 | [2002-stone-game-viii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2002-stone-game-viii) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2383-add-two-integers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2383-add-two-integers) |
+| [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## String
@@ -719,6 +721,7 @@
 | [1397-search-suggestions-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 | [3376-longest-common-suffix-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3376-longest-common-suffix-queries) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3636-check-balanced-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3636-check-balanced-string) |
@@ -972,6 +975,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2002-stone-game-viii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2002-stone-game-viii) |
+| [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Combinatorics
@@ -1196,10 +1200,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0204-count-primes) |
+| [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0204-count-primes) |
+| [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 ## Geometry
 |  |
 | ------- |
