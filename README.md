@@ -277,6 +277,7 @@
 | [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2739-minimize-the-total-price-of-the-trips) |
@@ -487,6 +488,7 @@
 | [2429-design-a-food-rating-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2429-design-a-food-rating-system) |
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -923,6 +925,7 @@
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3151-minimum-processing-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3151-minimum-processing-time) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3571-length-of-the-longest-increasing-path) |
@@ -1039,6 +1042,7 @@
 | [0868-push-dominoes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1028-interval-list-intersections) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
 | ------- |
