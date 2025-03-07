@@ -360,6 +360,7 @@
 | [0945-snakes-and-ladders](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0964-minimize-malware-spread-ii) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -758,6 +759,7 @@
 | [0437-path-sum-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0863-sum-of-distances-in-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1008-binary-tree-cameras) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -812,6 +814,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1008-binary-tree-cameras) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
