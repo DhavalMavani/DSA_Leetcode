@@ -301,6 +301,7 @@
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3737-paint-house-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3737-paint-house-iv) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -654,6 +655,7 @@
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Math
 |  |
 | ------- |
@@ -957,6 +959,7 @@
 | [3571-length-of-the-longest-increasing-path](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3571-length-of-the-longest-increasing-path) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Shortest Path
 |  |
 | ------- |
