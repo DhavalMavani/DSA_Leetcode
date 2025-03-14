@@ -301,6 +301,7 @@
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3737-paint-house-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3737-paint-house-iv) |
+| [3790-fruits-into-baskets-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@
 | [3571-length-of-the-longest-increasing-path](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3571-length-of-the-longest-increasing-path) |
 | [3643-zero-array-transformation-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3790-fruits-into-baskets-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1123,6 +1125,7 @@
 | [0732-my-calendar-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0732-my-calendar-iii) |
 | [1294-range-frequency-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1294-range-frequency-queries) |
 | [2512-longest-uploaded-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2512-longest-uploaded-prefix) |
+| [3790-fruits-into-baskets-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1177,6 +1180,7 @@
 | [0750-contain-virus](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0750-contain-virus) |
 | [1708-design-parking-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1708-design-parking-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3790-fruits-into-baskets-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
