@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    bool check(vector<int>& ranks, int cars, long long t){
+    bool check(vector<int>& ranks, int cars, long long &t){
         for(auto &r: ranks){
             cars-= int ( sqrt(t/r) );
             if(cars<=0) return true;
