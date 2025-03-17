@@ -1,11 +1,9 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        unordered_set<int> ust;
-        for(auto &i: nums){
-            if(ust.count(i) ) ust.erase(i);
-            else ust.emplace(i);
-        }
-        return ust.empty();
+        vector<int> hash(501);
+        for(auto &i: nums) hash[i]++;
+        for(auto &i: hash) if(i%2) return false;
+        return true;
     }
 };
