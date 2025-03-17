@@ -1,9 +1,12 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        vector<int> hash(501);
-        for(auto &i: nums) hash[i]++;
-        for(auto &i: hash) if(i%2) return false;
+        vector<bool> hash(501,false);
+        for(auto &i: nums){
+            if(hash[i]) hash[i]=0;
+            else hash[i]=1;
+        } 
+        for(auto i: hash) if(i) return false;
         return true;
     }
 };
