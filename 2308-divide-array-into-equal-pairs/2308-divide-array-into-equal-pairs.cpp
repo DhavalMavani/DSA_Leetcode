@@ -1,10 +1,12 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-
-        for(int i=0; i<nums.size(); i+=2) if(nums[i] != nums[i+1] ) return false;
-        
+        vector<bool> hash(501,false);
+        for(auto &i: nums){
+            if(hash[i]) hash[i]=0;
+            else hash[i]=1;
+        } 
+        for(auto i: hash) if(i) return false;
         return true;
     }
 };
