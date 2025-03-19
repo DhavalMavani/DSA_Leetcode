@@ -12,7 +12,7 @@ public:
             }
         }
 
-        if(!nums[n-1] || !nums[n-2] || !nums[n-3])return -1;
+        if(!nums[n-1] || !nums[n-2] )return -1;
         return ans;
     }
 };
