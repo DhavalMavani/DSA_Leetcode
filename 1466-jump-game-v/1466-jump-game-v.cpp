@@ -6,10 +6,12 @@ public:
         if(dp[currInd]!=-1) return dp[currInd];
 
         int lim=min((int) n-1,currInd+d);
-        for(int i=currInd+1; i<=lim && arr[i]<arr[currInd];i++ ) count=max(count,helper(i,arr,d,dp) );
+        for(int i=currInd+1; i<=lim && arr[i]<arr[currInd];i++ ) 
+            count=max(count,helper(i,arr,d,dp) );
         
         lim=max(0,currInd-d);
-        for(int i=currInd-1; i>=lim && arr[i]<arr[currInd];i-- ) count=max(count,helper(i,arr,d,dp) );
+        for(int i=currInd-1; i>=lim && arr[i]<arr[currInd];i-- )
+            count=max(count,helper(i,arr,d,dp) );
 
         return dp[currInd]=1 + count;
     }
