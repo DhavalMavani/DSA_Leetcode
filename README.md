@@ -255,6 +255,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1418-fair-distribution-of-cookies) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1466-jump-game-v](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1466-jump-game-v) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1522-stone-game-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1522-stone-game-iii) |
 | [1582-design-browser-history](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1582-design-browser-history) |
@@ -578,6 +579,7 @@
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1466-jump-game-v](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1522-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1617-stone-game-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1617-stone-game-iv) |
@@ -959,6 +961,7 @@
 | [1257-rank-transform-of-a-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1257-rank-transform-of-a-matrix) |
 | [1290-make-array-strictly-increasing](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1290-make-array-strictly-increasing) |
 | [1397-search-suggestions-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1397-search-suggestions-system) |
+| [1466-jump-game-v](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1466-jump-game-v) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
 | [1788-stone-game-vi](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1788-stone-game-vi) |
