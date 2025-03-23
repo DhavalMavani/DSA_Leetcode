@@ -276,6 +276,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2176-parallel-courses-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2308-divide-array-into-equal-pairs) |
@@ -513,6 +514,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
 | [2104-operations-on-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2104-operations-on-tree) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2117-find-original-array-from-doubled-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2429-design-a-food-rating-system) |
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
@@ -765,6 +767,7 @@
 | [1397-search-suggestions-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1397-search-suggestions-system) |
 | [1508-longest-happy-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1508-longest-happy-prefix) |
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2389-design-a-text-editor](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2389-design-a-text-editor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -875,6 +878,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2176-parallel-courses-iii) |
 | [2201-valid-arrangement-of-pairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -918,6 +922,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Greedy
 |  |
 | ------- |
