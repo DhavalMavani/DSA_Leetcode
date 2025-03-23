@@ -397,6 +397,7 @@
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -423,6 +424,7 @@
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
 | [2512-longest-uploaded-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2512-longest-uploaded-prefix) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Matrix
@@ -647,6 +649,7 @@
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [2793-count-the-number-of-complete-components](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2793-count-the-number-of-complete-components) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -888,6 +891,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [2793-count-the-number-of-complete-components](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
