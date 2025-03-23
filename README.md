@@ -247,6 +247,7 @@
 | [1290-make-array-strictly-increasing](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1290-make-array-strictly-increasing) |
 | [1294-range-frequency-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1294-range-frequency-queries) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1310-watering-plants](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1310-watering-plants) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1396-count-servers-that-communicate) |
@@ -1222,6 +1223,7 @@
 | [0068-text-justification](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0289-game-of-life) |
 | [0750-contain-virus](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0750-contain-virus) |
+| [1310-watering-plants](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1310-watering-plants) |
 | [1708-design-parking-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1708-design-parking-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2389-design-a-text-editor](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2389-design-a-text-editor) |
