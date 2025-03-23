@@ -761,6 +761,7 @@
 | [0868-push-dominoes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1397-search-suggestions-system) |
+| [1508-longest-happy-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1508-longest-happy-prefix) |
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
 | [2389-design-a-text-editor](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2389-design-a-text-editor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1301,8 +1302,14 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
+| [1508-longest-happy-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
+| [1508-longest-happy-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1508-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
