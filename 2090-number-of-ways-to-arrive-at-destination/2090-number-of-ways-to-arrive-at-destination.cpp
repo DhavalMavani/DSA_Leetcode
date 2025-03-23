@@ -1,35 +1,41 @@
 class Solution {
 public:
     int countPaths(int n, vector<vector<int>>& roads) {
-        long long mod = 1e9 + 7;
-        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
-        vector<vector<int>> adj[n];
-        for(auto &it: roads){
-            adj[it[0]].push_back({it[1], it[2]});
-            adj[it[1]].push_back({it[0], it[2]});
+        int mod = 1e9+7;
+        vector<vector<pair<int, int>>> graph(n);
+        for(auto &road: roads) {
+            graph[road[0]].push_back({road[1], road[2]});
+            graph[road[1]].push_back({road[0], road[2]});
         }
+        
+        vector<long long> distance(n, LONG_MAX);
+        vector<int> path(n, 0);
+        
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
         pq.push({0, 0});
-        vector<long long> vis(n, 1e12);
-        vector<int> ways(n, 0);
-        ways[0] = 1;
-        vis[0] = 0;
-        while(pq.size()){
-            long long cost = pq.top().first;
-            int node = pq.top().second;
+        distance[0] = 0;
+        path[0] = 1;
+        
+        while(!pq.empty()) {
+            pair<long long, int> t = pq.top();
             pq.pop();
-            for(auto &child: adj[node]){
-                long long newCost = cost + child[1] + 0LL;
-                if(newCost < vis[child[0]]){
-                    vis[child[0]] = newCost;
-                    ways[child[0]] = ways[node] % mod;
-                    pq.push({newCost, child[0]});
+            
+            for(auto &nbr: graph[t.second]) {
+                long long vert = nbr.first;
+                long long edge = nbr.second;
+                
+                if(distance[vert] > distance[t.second] + edge) {
+                    distance[vert] = distance[t.second] + edge;
+                    pq.push({distance[vert], vert});
+                    path[vert] = path[t.second] %mod;
                 }
-                else if(newCost == vis[child[0]]){
-                    ways[child[0]] += ways[node];
-                    ways[child[0]] %= mod;
+                else if(distance[vert] == t.first + edge) {
+                    path[vert] += path[t.second];
+                    path[vert] %= mod;
                 }
             }
         }
-        return ways[n - 1] % mod;
+        
+        return path[n-1];
     }
 };
