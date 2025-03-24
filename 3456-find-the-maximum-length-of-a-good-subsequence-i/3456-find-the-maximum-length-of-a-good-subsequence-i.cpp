@@ -1,18 +1,16 @@
 class Solution {
 public:
-    int maximumLength(vector<int>& nums, int k) {
-        int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(k+1, 1));
-        int ans = 1;
-        for (int i=1; i<n; i++) {
-            for (int j=0; j<=k; j++) {
-                for (int l=0; l<i; l++) {
-                    if (nums[l] == nums[i])  dp[i][j] = max(dp[i][j], dp[l][j] + 1);
-                    else if (j > 0) dp[i][j] = max(dp[i][j], dp[l][j - 1] + 1);
-                }
-                ans = max(ans, dp[i][j]);
-            }
+    int helper(vector<int>& nums, int prevInd, int k,vector<vector<int>> &dp){
+        int n=nums.size(),ans=0;
+        if(dp[prevInd+1][k+1]!=-1) return dp[prevInd+1][k+1];
+        for(int i=prevInd+1;i<n;i++){
+            if(prevInd!=-1 && nums[i]==nums[prevInd]) ans=max(ans,1+helper(nums,i,k,dp) );
+            else if(k>=0)  ans=max(ans, 1+helper(nums,i,k-1,dp));
         }
-        return ans;
+        return dp[prevInd+1][k+1]=ans;
+    }
+    int maximumLength(vector<int>& nums, int k) {
+        vector<vector<int>> dp(nums.size()+1, vector<int>(k+2,-1));
+        return helper(nums, -1, k,dp);
     }
 };
