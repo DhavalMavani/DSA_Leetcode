@@ -294,6 +294,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2808-painting-the-walls](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2808-painting-the-walls) |
+| [2832-find-the-longest-equal-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2832-find-the-longest-equal-subarray) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3151-minimum-processing-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3151-minimum-processing-time) |
@@ -345,6 +346,7 @@
 | [2512-longest-uploaded-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2512-longest-uploaded-prefix) |
 | [2665-minimum-time-to-repair-cars](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2690-house-robber-iv) |
+| [2832-find-the-longest-equal-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2832-find-the-longest-equal-subarray) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3571-length-of-the-longest-increasing-path) |
@@ -532,6 +534,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2832-find-the-longest-equal-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2832-find-the-longest-equal-subarray) |
 | [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3227-find-missing-and-repeated-values) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -1141,6 +1144,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2478-longest-nice-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2478-longest-nice-subarray) |
+| [2832-find-the-longest-equal-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2832-find-the-longest-equal-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
