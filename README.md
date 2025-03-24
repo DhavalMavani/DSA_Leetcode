@@ -254,6 +254,7 @@
 | [1397-search-suggestions-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1397-search-suggestions-system) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1418-fair-distribution-of-cookies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1418-fair-distribution-of-cookies) |
+| [1447-jump-game-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1447-jump-game-iv) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1466-jump-game-v) |
@@ -389,6 +390,7 @@
 | [1396-count-servers-that-communicate](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1447-jump-game-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1447-jump-game-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1753-path-with-minimum-effort) |
 | [2104-operations-on-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2104-operations-on-tree) |
@@ -516,6 +518,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1087-longest-arithmetic-subsequence) |
 | [1294-range-frequency-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1294-range-frequency-queries) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1447-jump-game-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1447-jump-game-iv) |
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
 | [2104-operations-on-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2104-operations-on-tree) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2117-find-original-array-from-doubled-array) |
