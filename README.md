@@ -311,6 +311,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -1006,6 +1007,7 @@
 | [3430-count-days-without-meetings](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3430-count-days-without-meetings) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3571-length-of-the-longest-increasing-path) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3759-choose-k-elements-with-maximum-sum) |
