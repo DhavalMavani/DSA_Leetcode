@@ -295,6 +295,7 @@
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2808-painting-the-walls](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2808-painting-the-walls) |
 | [2832-find-the-longest-equal-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2832-find-the-longest-equal-subarray) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3151-minimum-processing-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3151-minimum-processing-time) |
@@ -536,6 +537,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2832-find-the-longest-equal-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2832-find-the-longest-equal-subarray) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3227-find-missing-and-repeated-values) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -1003,6 +1005,7 @@
 | [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3151-minimum-processing-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3151-minimum-processing-time) |
 | [3430-count-days-without-meetings](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3430-count-days-without-meetings) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3485-maximize-score-of-numbers-in-ranges) |
