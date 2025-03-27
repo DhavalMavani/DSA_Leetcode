@@ -15,7 +15,6 @@ public:
         }
         
         int left=0;
-        cout<<dominatrix<<" ";
         for(int i=0;i<n-1;i++){
             if(nums[i]==dominatrix) left++;
             if( (left> (i+1)/2) && ( count-left >(n -i-1)/2  ) ) return i;
