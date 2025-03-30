@@ -512,6 +512,7 @@
 | [0621-task-scheduler](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0746-prefix-and-suffix-search) |
+| [0768-partition-labels](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0833-bus-routes) |
 | [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -780,6 +781,7 @@
 | [0639-decode-ways-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0639-decode-ways-ii) |
 | [0692-top-k-frequent-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0746-prefix-and-suffix-search) |
+| [0768-partition-labels](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1397-search-suggestions-system) |
@@ -954,6 +956,7 @@
 | [0630-course-schedule-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0768-partition-labels) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1762-furthest-building-you-can-reach](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1762-furthest-building-you-can-reach) |
 | [1788-stone-game-vi](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1788-stone-game-vi) |
@@ -1126,6 +1129,7 @@
 | [0287-find-the-duplicate-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0443-string-compression) |
+| [0768-partition-labels](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0868-push-dominoes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1019-squares-of-a-sorted-array) |
