@@ -290,6 +290,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2665-minimum-time-to-repair-cars](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2681-put-marbles-in-bags) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2690-house-robber-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -695,6 +696,7 @@
 | [2429-design-a-food-rating-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2429-design-a-food-rating-system) |
 | [2512-longest-uploaded-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2512-longest-uploaded-prefix) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2681-put-marbles-in-bags) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -970,6 +972,7 @@
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2681-put-marbles-in-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2681-put-marbles-in-bags) |
 | [3151-minimum-processing-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3151-minimum-processing-time) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -1014,6 +1017,7 @@
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3151-minimum-processing-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3151-minimum-processing-time) |
 | [3430-count-days-without-meetings](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3430-count-days-without-meetings) |
