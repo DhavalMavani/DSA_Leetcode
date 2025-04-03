@@ -279,6 +279,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2176-parallel-courses-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2176-parallel-courses-iii) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2228-watering-plants-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -535,6 +536,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
 | [2104-operations-on-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2104-operations-on-tree) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2117-find-original-array-from-doubled-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2429-design-a-food-rating-system) |
@@ -800,6 +802,7 @@
 | [1397-search-suggestions-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1397-search-suggestions-system) |
 | [1508-longest-happy-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1508-longest-happy-prefix) |
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2389-design-a-text-editor](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2389-design-a-text-editor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1245,6 +1248,7 @@
 | [1396-count-servers-that-communicate](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1396-count-servers-that-communicate) |
 | [1708-design-parking-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1708-design-parking-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2308-divide-array-into-equal-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Strongly Connected Component
