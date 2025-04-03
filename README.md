@@ -565,6 +565,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0132-palindrome-partitioning-ii) |
 | [0279-perfect-squares](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0312-burst-balloons) |
@@ -766,6 +767,7 @@
 | [0097-interleaving-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0097-interleaving-string) |
 | [0126-word-ladder-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0166-fraction-to-recurring-decimal) |
@@ -929,6 +931,7 @@
 | [0079-word-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0494-target-sum) |
