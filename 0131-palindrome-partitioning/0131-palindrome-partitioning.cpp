@@ -1,6 +1,6 @@
 class Solution {
 private:
-    void generatepartition(int curr,vector<string> res,vector<vector<bool>> &dp,string &s){
+    void generatepartition(int curr,vector<string> &res,vector<vector<bool>> &dp,string &s){
         int n=s.size();
         if(curr==n){
             ans.emplace_back(res);
@@ -33,8 +33,8 @@ public:
                 }
             }
         }
-
-        generatepartition(0,{},dp,s);
+        vector<string> res;
+        generatepartition(0,res,dp,s);
 
         return ans;
     }
