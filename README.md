@@ -476,6 +476,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -716,6 +717,7 @@
 | [0009-palindrome-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0069-sqrtx) |
