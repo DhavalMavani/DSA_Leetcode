@@ -166,6 +166,7 @@
 | [0054-spiral-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0073-set-matrix-zeroes) |
@@ -452,6 +453,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0079-word-search) |
@@ -1293,6 +1295,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0735-asteroid-collision) |
