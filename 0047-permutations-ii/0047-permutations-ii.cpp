@@ -20,6 +20,7 @@ private:
 public:
     vector<vector<int>> ans;
     vector<vector<int>> permuteUnique(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
         generate_permutation(nums,0);
         return ans;
     }
