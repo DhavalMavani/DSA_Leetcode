@@ -1,20 +1,27 @@
 class Solution {
-public:
-    void recursion(vector<int> num, int i, vector<vector<int> > &res) {
-        if (i == num.size()-1) {
-            res.push_back(num);
+
+private:
+    void generate_permutation(vector<int> &nums,int curr){
+        if(curr==nums.size()-1){
+            ans.emplace_back(nums);
             return;
         }
-        for (int k = i; k < num.size(); k++) {
-            if (i != k && num[i] == num[k]) continue;
-            swap(num[i], num[k]);
-            recursion(num, i+1, res);
+        unordered_set<int> ust;
+        for(int i=curr;i<nums.size();i++){
+            if(ust.count(nums[i])) continue;
+            
+            ust.emplace(nums[i]);
+
+            swap(nums[curr],nums[i]);
+            generate_permutation(nums,curr+1);
+            swap(nums[curr],nums[i]);
         }
     }
-    vector<vector<int> > permuteUnique(vector<int> &num) {
-        sort(num.begin(), num.end());
-        vector<vector<int> >res;
-        recursion(num, 0, res);
-        return res;
+public:
+    vector<vector<int>> ans;
+    vector<vector<int>> permuteUnique(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        generate_permutation(nums,0);
+        return ans;
     }
 };
