@@ -769,6 +769,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0076-minimum-window-substring) |
