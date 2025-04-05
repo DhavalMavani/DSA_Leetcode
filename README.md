@@ -572,6 +572,7 @@
 | [0042-trapping-rain-water](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0091-decode-ways) |
@@ -729,6 +730,7 @@
 | [0043-multiply-strings](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1117,6 +1119,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0062-unique-paths) |
 | [0956-number-of-music-playlists](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0956-number-of-music-playlists) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
