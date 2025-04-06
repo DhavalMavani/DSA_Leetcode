@@ -21,7 +21,7 @@ public:
 
 class Solution {
 private:
-    Node* cloneGraphFunction(Node* node){
+    Node* cloneGraphFunction(Node*& node){
         if(hash.count(node)) return hash[node]; 
         
         hash[node]=new Node(node->val);
