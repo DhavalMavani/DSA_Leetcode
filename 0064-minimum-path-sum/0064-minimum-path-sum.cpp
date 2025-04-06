@@ -1,12 +1,12 @@
 class Solution {
 public:
+    vector<int> arr={0,1,0};
     int calculatePath(vector<vector<int>>& grid,int row,int col,vector<vector<int>>& dp){
         if(row==grid.size()-1 && col==grid[0].size()-1) return dp[row][col]=grid[row][col];
 
         if(dp[row][col]!=-1) return dp[row][col];
 
         int ans=10e7;
-        int arr[]={0,1,0};
         for(int i=0;i<2;i++){
             int a=row+arr[i];
             int b=col+arr[i+1];
