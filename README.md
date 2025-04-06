@@ -267,6 +267,7 @@
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1466-jump-game-v) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1522-stone-game-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1522-stone-game-iii) |
 | [1582-design-browser-history](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1582-design-browser-history) |
@@ -355,6 +356,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1397-search-suggestions-system) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1753-path-with-minimum-effort](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -474,6 +476,7 @@
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1396-count-servers-that-communicate](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
