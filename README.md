@@ -243,6 +243,7 @@
 | [0960-minimize-malware-spread](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0964-minimize-malware-spread-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0966-binary-subarrays-with-sum) |
+| [0971-shortest-bridge](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0971-shortest-bridge) |
 | [0976-minimum-area-rectangle](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0976-minimum-area-rectangle) |
 | [0993-tallest-billboard](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0993-tallest-billboard) |
 | [1017-odd-even-jump](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1017-odd-even-jump) |
@@ -403,6 +404,7 @@
 | [0945-snakes-and-ladders](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0964-minimize-malware-spread-ii) |
+| [0971-shortest-bridge](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -474,6 +476,7 @@
 | [0794-swim-in-rising-water](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0794-swim-in-rising-water) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0971-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1257-rank-transform-of-a-matrix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1257-rank-transform-of-a-matrix) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
@@ -682,6 +685,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0863-sum-of-distances-in-tree) |
 | [0960-minimize-malware-spread](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0964-minimize-malware-spread-ii) |
+| [0971-shortest-bridge](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0971-shortest-bridge) |
 | [1008-binary-tree-cameras](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1008-binary-tree-cameras) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
