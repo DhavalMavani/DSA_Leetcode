@@ -6,10 +6,10 @@ public:
         prefixReminder[0]=1;
         for(auto &i: nums){
             sum+=i;
+            
             int remainder=sum%k;
-            if(remainder<0){
-                remainder+=k;
-            }
+            if(remainder<0) remainder+=k;
+
             ans+=prefixReminder[remainder];
             prefixReminder[remainder]++;
         }
