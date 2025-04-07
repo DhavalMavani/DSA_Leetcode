@@ -171,6 +171,7 @@
 | [0064-minimum-path-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -495,6 +496,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -979,6 +981,7 @@
 | [0051-n-queens](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0126-word-ladder-ii) |
