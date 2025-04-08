@@ -5,9 +5,9 @@ public:
         for (auto &i: s) if (isalnum(i)) str+=i;
         transform(str.begin(), str.end(), str.begin(), ::tolower);
 
-        auto l=str.begin(),r=str.end()-1;
-        while(l<=r){
-            if(*l!=*r) return false;
+        long l=0,r=str.size()-1;
+        while(l<r){
+            if(str[l]!=str[r]) return false;
             l++;
             r--;
         }
