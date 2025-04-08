@@ -13,9 +13,8 @@ public:
     }
     
     bool remove(int val) {
-        auto it=mp.find(val);
-        if(it != mp.end()){
-            auto last = a.back();
+        if(mp.count(val)){
+            pair<int, int> last = a.back();
             mp[last.first][last.second] = mp[val].back();
             a[mp[val].back()] = last;
             mp[val].pop_back();
