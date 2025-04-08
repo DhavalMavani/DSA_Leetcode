@@ -813,6 +813,7 @@
 | [0079-word-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0131-palindrome-partitioning) |
@@ -1205,6 +1206,7 @@
 | [0061-rotate-list](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0287-find-the-duplicate-number) |
