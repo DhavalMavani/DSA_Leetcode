@@ -4,11 +4,10 @@ public:
         string str;
         for (auto &i: s) if (isalnum(i)) str+=i;
 
-        long l=0,r=str.size()-1;
-        while(l<r){
-            if(tolower(str[l])!=tolower(str[r]) ) return false;
+        long l=0,n=str.size();
+        while(l<n/2){
+            if(tolower(str[l])!=tolower(str[n-l-1]) ) return false;
             l++;
-            r--;
         }
         return true;
     }
