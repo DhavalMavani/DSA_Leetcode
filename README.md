@@ -205,6 +205,7 @@
 | [0354-russian-doll-envelopes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -533,6 +534,7 @@
 | [0299-bulls-and-cows](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -763,6 +765,7 @@
 | [0343-integer-break](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0365-water-and-jug-problem) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0523-continuous-subarray-sum) |
 | [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
@@ -894,6 +897,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0715-range-module](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0731-my-calendar-ii) |
@@ -1423,6 +1427,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
 ## String Matching
 |  |
