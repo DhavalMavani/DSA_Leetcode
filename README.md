@@ -280,6 +280,7 @@
 | [1582-design-browser-history](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1603-running-sum-of-1d-array) |
+| [1656-count-good-triplets](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1656-count-good-triplets) |
 | [1685-stone-game-v](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1685-stone-game-v) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1416,6 +1417,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2998-count-symmetric-integers) |
 | [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 ## Number Theory
