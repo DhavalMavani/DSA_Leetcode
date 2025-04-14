@@ -785,6 +785,7 @@
 | [1788-stone-game-vi](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1808-stone-game-vii) |
 | [2002-stone-game-viii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2002-stone-game-viii) |
+| [2050-count-good-numbers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2050-count-good-numbers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2383-add-two-integers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1124,6 +1125,7 @@
 | [0273-integer-to-english-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0486-predict-the-winner) |
+| [2050-count-good-numbers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2050-count-good-numbers) |
 ## Game Theory
 |  |
 | ------- |
