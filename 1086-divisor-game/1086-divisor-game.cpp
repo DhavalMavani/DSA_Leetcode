@@ -1,27 +1,20 @@
 class Solution {
 public:
-    bool helper(int n, bool alice,vector<vector<int>> &dp){
-        if(n==1) return alice;
+    bool helper(int n,vector<int> &dp){
+        if(n==1) return false;
 
-        if(dp[n][alice]!=-1) return dp[n][alice];
+        if(dp[n]!=-1) return dp[n];
         int lim=sqrt(n);
-
         for(int i=1;i<=lim;i++){
-            if(n%i) continue;
-            if(alice){
-                if(!helper(n-i,!alice,dp)) return dp[n][alice]=false;
-                return dp[n][alice]=true;
-            } 
-            else{
-                if( helper(n-i,!alice,dp) ) return dp[n][alice]=true;
-                return dp[n][alice]=false;
-            } 
+            if(n%i==0){
+                if(!helper(n-i,dp)) return dp[n]=true;
+            }
         }
-        return false;
+        return dp[n]=false;
     }
     bool divisorGame(int n) {
-        vector<vector<int>> dp(n+1,vector<int> (2,-1));
+        vector<int> dp(n+1,-1);
 
-        return !helper(n, true,dp);
+        return helper(n,dp);
     }
 };
