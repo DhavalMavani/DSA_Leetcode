@@ -639,6 +639,7 @@
 | [0993-tallest-billboard](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0993-tallest-billboard) |
 | [1008-binary-tree-cameras](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1008-binary-tree-cameras) |
 | [1017-odd-even-jump](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1017-odd-even-jump) |
+| [1086-divisor-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1087-longest-arithmetic-subsequence) |
 | [1240-stone-game-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1250-longest-common-subsequence) |
@@ -781,6 +782,7 @@
 | [0909-stone-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0909-stone-game) |
 | [0956-number-of-music-playlists](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0956-number-of-music-playlists) |
 | [0976-minimum-area-rectangle](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0976-minimum-area-rectangle) |
+| [1086-divisor-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1617-stone-game-iv) |
@@ -1135,6 +1137,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0909-stone-game) |
+| [1086-divisor-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1617-stone-game-iv) |
@@ -1466,4 +1469,8 @@
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1508-longest-happy-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
