@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool helper(int n, bool alice,vector<vector<int>> &dp){
-        if(n<=1) return alice;
+        if(n==1) return alice;
 
         if(dp[n][alice]!=-1) return dp[n][alice];
         int lim=sqrt(n);
