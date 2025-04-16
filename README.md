@@ -213,6 +213,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0472-concatenated-words) |
 | [0480-sliding-window-median](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0486-predict-the-winner) |
@@ -352,6 +353,7 @@
 | [0162-find-peak-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0287-find-the-duplicate-number) |
 | [0354-russian-doll-envelopes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0354-russian-doll-envelopes) |
+| [0436-find-right-interval](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0436-find-right-interval) |
 | [0713-subarray-product-less-than-k](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0729-my-calendar-i) |
@@ -1074,6 +1076,7 @@
 | [0347-top-k-frequent-elements](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0630-course-schedule-iii) |
