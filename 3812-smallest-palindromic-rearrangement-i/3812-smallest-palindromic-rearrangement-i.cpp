@@ -13,10 +13,8 @@ public:
         }
         string back=ans;
         reverse(back.begin(),back.end());
-        if(oddChar!=-1){
-            ans+='a'+oddChar;
-            freq[oddChar]--;
-        }
+        
+        if(oddChar!=-1) ans+='a'+oddChar;
 
         return ans+back;
     }
