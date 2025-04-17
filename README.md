@@ -310,6 +310,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2681-put-marbles-in-bags) |
@@ -580,6 +581,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1259,6 +1261,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2478-longest-nice-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2832-find-the-longest-equal-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
