@@ -302,6 +302,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2228-watering-plants-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2478-longest-nice-subarray) |
