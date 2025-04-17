@@ -874,6 +874,7 @@
 | [3376-longest-common-suffix-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3376-longest-common-suffix-queries) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3636-check-balanced-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3636-check-balanced-string) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
 | ------- |
@@ -1117,6 +1118,7 @@
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1422,6 +1424,7 @@
 | ------- |
 | [0274-h-index](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0948-sort-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
