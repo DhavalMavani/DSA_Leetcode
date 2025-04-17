@@ -9,7 +9,7 @@ public:
 
         for(int i=0;i<26;i++){
             if(freq[i]==0) continue;
-            cout<<char('a'+i)<<" "<<freq[i]<<" \n";
+            
             for(int j=0;j<freq[i]/2;j++,l++){
                 ans[l]='a'+i;
                 ans[n-1-l]='a'+i;
