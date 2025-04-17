@@ -11,14 +11,13 @@ public:
             ans+=string(freq[i]/2, 'a'+i);
             freq[i]-= freq[i]/2;
         }
-
+        string back=ans;
+        reverse(back.begin(),back.end());
         if(oddChar!=-1){
             ans+='a'+oddChar;
             freq[oddChar]--;
         }
 
-        for(int i=25;i>=0;i--) ans+=string(freq[i], 'a'+i);
-
-        return ans;
+        return ans+back;
     }
 };
