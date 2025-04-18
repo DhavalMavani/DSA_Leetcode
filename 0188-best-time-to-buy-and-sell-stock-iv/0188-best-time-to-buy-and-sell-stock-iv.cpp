@@ -6,14 +6,14 @@ public:
       if(dp[index][numTransaction]!=-1) return dp[index][numTransaction];
 
       if(numTransaction%2==0){
-        int a =  -prices[index] + findMaxProfit(prices,numTransaction-1,index+1,dp);
-        int b =  findMaxProfit(prices,numTransaction,index+1,dp);
-        return dp[index][numTransaction] = max(a,b);
+        int ans =  -prices[index] + findMaxProfit(prices,numTransaction-1,index+1,dp);
+        ans =  max(findMaxProfit(prices,numTransaction,index+1,dp), ans);
+        return dp[index][numTransaction] = ans;
       }
       else{
-        int a = prices[index] + findMaxProfit(prices,numTransaction-1,index+1,dp);
-        int b = findMaxProfit(prices,numTransaction,index+1,dp);
-        return dp[index][numTransaction] = max(a,b);
+        int ans = prices[index] + findMaxProfit(prices,numTransaction-1,index+1,dp);
+        ans=max (findMaxProfit(prices,numTransaction,index+1,dp),ans);
+        return dp[index][numTransaction] = ans;
       }
       return 0;
     }
