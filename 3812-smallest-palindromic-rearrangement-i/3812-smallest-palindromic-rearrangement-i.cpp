@@ -5,8 +5,8 @@ public:
         for(auto &i: s) freq[i-'a']++;
 
         int l=0,n=s.size();
-        string ans(n,'*');
-        
+        string ans(n,' ');
+
         if(n%2) ans[n/2]=s[n/2];
 
         for(int i=0;i<26;i++){
