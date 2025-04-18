@@ -592,6 +592,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3227-find-missing-and-repeated-values) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -806,6 +807,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3227-find-missing-and-repeated-values) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3830-find-closest-person](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -875,6 +877,7 @@
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3636-check-balanced-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3636-check-balanced-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1184,6 +1187,7 @@
 | [0956-number-of-music-playlists](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0956-number-of-music-playlists) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -1343,6 +1347,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2308-divide-array-into-equal-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Strongly Connected Component
 |  |
 | ------- |
