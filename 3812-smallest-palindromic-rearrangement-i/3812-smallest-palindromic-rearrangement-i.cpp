@@ -6,6 +6,8 @@ public:
 
         int l=0,n=s.size();
         string ans(n,'*');
+        
+        if(n%2) ans[n/2]=s[n/2];
 
         for(int i=0;i<26;i++){
             if(freq[i]==0) continue;
@@ -13,7 +15,6 @@ public:
                 ans[l]='a'+i;
                 ans[n-1-l]='a'+i;
             }
-            if(freq[i]%2) ans[n/2]='a'+i;
         }
 
 
