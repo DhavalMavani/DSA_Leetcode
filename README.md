@@ -327,6 +327,7 @@
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3151-minimum-processing-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3151-minimum-processing-time) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3227-find-missing-and-repeated-values) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3376-longest-common-suffix-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3376-longest-common-suffix-queries) |
 | [3430-count-days-without-meetings](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3430-count-days-without-meetings) |
@@ -875,6 +876,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3376-longest-common-suffix-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3376-longest-common-suffix-queries) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3636-check-balanced-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3636-check-balanced-string) |
@@ -1425,6 +1427,7 @@
 | [0692-top-k-frequent-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0746-prefix-and-suffix-search) |
 | [1397-search-suggestions-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1397-search-suggestions-system) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3376-longest-common-suffix-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3376-longest-common-suffix-queries) |
 ## Counting Sort
 |  |
@@ -1476,17 +1479,20 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
 | ------- |
