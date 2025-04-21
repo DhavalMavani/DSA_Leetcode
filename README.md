@@ -238,6 +238,7 @@
 | [0746-prefix-and-suffix-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0746-prefix-and-suffix-search) |
 | [0750-contain-virus](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0750-contain-virus) |
 | [0794-swim-in-rising-water](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0833-bus-routes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0833-bus-routes) |
 | [0883-car-fleet](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0883-car-fleet) |
@@ -562,6 +563,7 @@
 | [0692-top-k-frequent-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0746-prefix-and-suffix-search) |
 | [0768-partition-labels](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0833-bus-routes) |
 | [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -789,6 +791,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0523-continuous-subarray-sum) |
+| [0797-rabbits-in-forest](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0797-rabbits-in-forest) |
 | [0894-random-pick-with-blacklist](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0894-random-pick-with-blacklist) |
 | [0909-stone-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0909-stone-game) |
 | [0956-number-of-music-playlists](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0956-number-of-music-playlists) |
@@ -1060,6 +1063,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0797-rabbits-in-forest) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1762-furthest-building-you-can-reach](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1762-furthest-building-you-can-reach) |
 | [1788-stone-game-vi](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1788-stone-game-vi) |
