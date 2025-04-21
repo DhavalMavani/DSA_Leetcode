@@ -305,6 +305,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2228-watering-plants-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2228-watering-plants-ii) |
+| [2249-count-the-hidden-sequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -1190,6 +1191,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2002-stone-game-viii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2002-stone-game-viii) |
+| [2249-count-the-hidden-sequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2249-count-the-hidden-sequences) |
 | [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3643-zero-array-transformation-ii) |
