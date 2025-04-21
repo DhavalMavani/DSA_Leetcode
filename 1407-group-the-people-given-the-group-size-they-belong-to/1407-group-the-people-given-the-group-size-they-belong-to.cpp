@@ -9,7 +9,7 @@ public:
 
             if(ump[groupSizes[i]].size()==groupSizes[i]){
                 ans.emplace_back(ump[groupSizes[i]]);
-                ump.erase(groupSizes[i]);
+                ump[groupSizes[i]].clear();
             }
         } 
 
