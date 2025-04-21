@@ -1,27 +1,26 @@
 class Solution {
 public:
     vector<int> getOrder(vector<vector<int>>& tasks) {
-        int n=tasks.size(), ind=0;
-        long long currTime=0;
-        for(int i=0;i<n;i++) tasks[i].emplace_back(i);
+        for(int i=0;i<tasks.size();i++)tasks[i].emplace_back(i);
         sort(tasks.begin(),tasks.end());
-        
         vector<int> ans;
-        priority_queue< pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>> > pq;
-
-        while(ind!=n || !pq.empty()){
-            if(pq.empty()) currTime=max (currTime,(long long)tasks[ind][0]);
-
-            while(ind<n && tasks[ind][0]<=currTime){
-                pq.push({tasks[ind][1],tasks[ind][2]});
-                ind++;
-            }
-
-            currTime+=pq.top().first;
-            ans.emplace_back(pq.top().second);
-            pq.pop();
-        }
+        int n=tasks.size(),i=0,endTime=tasks[0][0];
         
+        priority_queue<pair<int,int>,vector<pair<int,int>>, greater<pair<int,int>> > pq;
+
+        while(!pq.empty() || i!=n ){
+            if(pq.empty()) endTime=max(endTime,tasks[i][0]);
+            
+            while(i<n && tasks[i][0]<=endTime){
+                pq.push({tasks[i][1], tasks[i][2]});
+                i++;
+            }
+            
+            ans.emplace_back(pq.top().second);
+            endTime+=(long long)pq.top().first;
+            pq.pop();    
+        }
+
         return ans;
     }
 };
