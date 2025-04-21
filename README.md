@@ -272,6 +272,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1397-search-suggestions-system) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1418-fair-distribution-of-cookies](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1418-fair-distribution-of-cookies) |
 | [1447-jump-game-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1447-jump-game-iv) |
@@ -576,6 +577,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1087-longest-arithmetic-subsequence) |
 | [1294-range-frequency-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1294-range-frequency-queries) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1447-jump-game-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1447-jump-game-iv) |
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
 | [2104-operations-on-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2104-operations-on-tree) |
@@ -1064,6 +1066,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0797-rabbits-in-forest) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1762-furthest-building-you-can-reach](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1762-furthest-building-you-can-reach) |
 | [1788-stone-game-vi](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1788-stone-game-vi) |
