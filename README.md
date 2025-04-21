@@ -293,6 +293,7 @@
 | [1753-path-with-minimum-effort](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1762-furthest-building-you-can-reach) |
 | [1788-stone-game-vi](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1788-stone-game-vi) |
+| [1803-average-waiting-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1803-average-waiting-time) |
 | [1808-stone-game-vii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1808-stone-game-vii) |
 | [1962-single-threaded-cpu](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1391,6 +1392,7 @@
 | [0750-contain-virus](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0750-contain-virus) |
 | [1310-watering-plants](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1310-watering-plants) |
 | [1708-design-parking-system](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1708-design-parking-system) |
+| [1803-average-waiting-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1803-average-waiting-time) |
 | [2228-watering-plants-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2389-design-a-text-editor](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2389-design-a-text-editor) |
