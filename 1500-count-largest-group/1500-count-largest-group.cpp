@@ -11,7 +11,6 @@ public:
                 currSum+=curr%10;
                 curr/=10;
             }
-            cout<<currSum<<" ";
             arr[currSum]++;
             largestGroup=max(largestGroup,arr[currSum]);
         }
