@@ -1,7 +1,8 @@
 class Solution {
 public:
     int countLargestGroup(int n) {
-        unordered_map<int,int> ump;
+        vector<int> arr(37,0);
+
         int largestGroup=0,ans=0;
         for(int i=1;i<=n;i++){
             int curr=i, currSum=0;
@@ -10,10 +11,11 @@ public:
                 currSum+=curr%10;
                 curr/=10;
             }
-            ump[currSum]++;
-            largestGroup=max(largestGroup,ump[currSum]);
+            cout<<currSum<<" ";
+            arr[currSum]++;
+            largestGroup=max(largestGroup,arr[currSum]);
         }
-        for(auto &i: ump) if(i.second==largestGroup) ans++;
+        for(auto &i: arr) if(i==largestGroup) ans++;
 
         return ans;
 
