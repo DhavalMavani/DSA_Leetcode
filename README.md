@@ -581,6 +581,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1447-jump-game-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1447-jump-game-iv) |
+| [1500-count-largest-group](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1500-count-largest-group) |
 | [1777-determine-if-two-strings-are-close](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1777-determine-if-two-strings-are-close) |
 | [2104-operations-on-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2104-operations-on-tree) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2117-find-original-array-from-doubled-array) |
@@ -802,6 +803,7 @@
 | [0976-minimum-area-rectangle](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0976-minimum-area-rectangle) |
 | [1086-divisor-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1240-stone-game-ii) |
+| [1500-count-largest-group](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1685-stone-game-v) |
