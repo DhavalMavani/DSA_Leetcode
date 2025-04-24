@@ -353,6 +353,7 @@
 | [3737-paint-house-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3737-paint-house-iv) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3790-fruits-into-baskets-ii) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -825,6 +826,7 @@
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3830-find-closest-person](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3830-find-closest-person) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
