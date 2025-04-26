@@ -11,7 +11,7 @@ public:
             int r1=prefixSum % m ;
             int r2=(r1-k+m)%m;
 
-            ans+=ump[r2];
+            if(ump.count(r2)) ans+=ump[r2];
             ump[r1]++;
         }
 
