@@ -8,8 +8,7 @@ public:
         for(int i=0;i<n;i++){
             if(nums[i]%m==k) prefixSum++;
 
-            int r1=prefixSum % m ;
-            int r2=(r1-k+m)%m;
+            int r1=prefixSum % m , r2=(r1-k+m)%m;
 
             if(ump.count(r2)) ans+=ump[r2];
             ump[r1]++;
