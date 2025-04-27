@@ -312,6 +312,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2478-longest-nice-subarray) |
 | [2505-number-of-good-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2505-number-of-good-paths) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1298,6 +1299,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2478-longest-nice-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2832-find-the-longest-equal-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1426,12 +1428,14 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Bucket Sort
 |  |
 | ------- |
