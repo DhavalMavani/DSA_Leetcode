@@ -335,6 +335,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2915-count-of-interesting-subarrays) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3151-minimum-processing-time](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3151-minimum-processing-time) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1307,6 +1308,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2832-find-the-longest-equal-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
