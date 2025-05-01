@@ -2,24 +2,41 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        int n=heights.size(),ans=0;
         stack<int> st;
+        int n=heights.size(),ans=0;
+
         for(int i=0;i<n;i++){
-            int str=i;
-            while(!st.empty() && heights[st.top()] > heights[i] ){
-                str=st.top();
+            int currH=heights[i], ind=i;
+            while(!st.empty() &&  heights [ st.top() ] >currH ){
+                ind=st.top();
                 st.pop();
-                ans=max(ans,(i-str)*heights[str]);
-                heights[str]=heights[i];
+                
+                int len=i- ind, tempHeight=heights[ind]  ;
+                ans=max(ans,len*tempHeight);
             }
-            st.emplace(str);
+            heights[ind]=currH;
+            st.push(ind);
         }
 
-        int s=st.size();
-        for(int i=0;i<s;i++){
-            ans=max(ans,(n-st.top())*heights[st.top()]);
+        while(!st.empty() ){
+            int ind=st.top();
             st.pop();
+
+            int len=n- ind, tempHeight=heights[ind]  ;
+            ans=max(ans,len*tempHeight);
         }
+
         return ans;
     }
 };
+
+
+
+// #include <iostream>
+
+
+// int findMaxArea(vector<int> heights){
+
+
+
+// }
