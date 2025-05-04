@@ -202,6 +202,7 @@
 | [0284-peeking-iterator](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0322-coin-change) |
@@ -369,6 +370,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0436-find-right-interval) |
 | [0713-subarray-product-less-than-k](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0713-subarray-product-less-than-k) |
@@ -640,6 +642,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0279-perfect-squares](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0337-house-robber-iii) |
