@@ -3,21 +3,14 @@ public:
     
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        vector<int> ans;
+        vector<int> sorted;
         for(int i=0;i<n;i++){
             int curr=nums[i];
-            
-            bool added=false;
-            for(auto &j: ans){
-                if(j>=curr){
-                    j=curr;
-                    added=true;
-                    break;
-                } 
+            auto itr= lower_bound(sorted.begin(),sorted.end(),curr);
 
-            }
-            if(!added) ans.emplace_back(curr);
+            if(itr==sorted.end()) sorted.emplace_back(nums[i]);
+            else *itr=nums[i];
         }
-        return ans.size();
+        return sorted.size();
     }
 };
