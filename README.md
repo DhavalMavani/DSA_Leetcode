@@ -634,6 +634,7 @@
 | [0064-minimum-path-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -802,6 +803,7 @@
 | [0062-unique-paths](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0204-count-primes) |
@@ -916,6 +918,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -975,6 +978,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1253,6 +1257,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0173-binary-search-tree-iterator) |
