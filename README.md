@@ -220,6 +220,7 @@
 | [0480-sliding-window-median](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0525-contiguous-array) |
@@ -766,6 +767,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0692-top-k-frequent-words) |
@@ -1081,6 +1083,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1120,6 +1123,7 @@
 | [0435-non-overlapping-intervals](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0646-maximum-length-of-pair-chain) |
