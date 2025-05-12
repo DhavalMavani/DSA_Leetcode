@@ -668,6 +668,7 @@
 | [0868-push-dominoes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0909-stone-game) |
+| [0930-all-possible-full-binary-trees](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0930-all-possible-full-binary-trees) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0954-maximum-sum-circular-subarray) |
 | [0956-number-of-music-playlists](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0956-number-of-music-playlists) |
 | [0972-knight-dialer](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0972-knight-dialer) |
@@ -935,6 +936,7 @@
 | [0437-path-sum-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0863-sum-of-distances-in-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0930-all-possible-full-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1008-binary-tree-cameras) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -995,6 +997,7 @@
 | [0337-house-robber-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0572-subtree-of-another-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0930-all-possible-full-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1008-binary-tree-cameras) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1190,6 +1193,7 @@
 | [0273-integer-to-english-words](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0486-predict-the-winner) |
+| [0930-all-possible-full-binary-trees](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0930-all-possible-full-binary-trees) |
 | [2050-count-good-numbers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2050-count-good-numbers) |
 ## Game Theory
 |  |
@@ -1271,6 +1275,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0070-climbing-stairs) |
+| [0930-all-possible-full-binary-trees](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0930-all-possible-full-binary-trees) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
