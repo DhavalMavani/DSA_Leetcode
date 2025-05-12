@@ -11,14 +11,16 @@
  */
 class Solution {
 public:
-    vector<TreeNode*> helper(int n){
+    vector<TreeNode*> helper(int n, vector<vector<TreeNode*>> &dp){
+
+        if(! dp[n].empty() ) return dp[n];
         
         vector<TreeNode*> ans;
         for(int left=1;left<=n-2;left+=2){
             int right=n-1-left;
 
-            vector<TreeNode*> leftTree=helper(left);
-            vector<TreeNode*> rightTree=helper(right);
+            vector<TreeNode*> leftTree=helper(left,dp);
+            vector<TreeNode*> rightTree=helper(right,dp);
 
             for(auto &l: leftTree){
                 for(auto &r: rightTree){
@@ -30,13 +32,15 @@ public:
             }
         }
 
-        if(ans.empty()) return {new TreeNode() };
-        return ans;
+        if(ans.empty()) return dp[n]={new TreeNode() };
+        return dp[n]=ans;
     }
 
     vector<TreeNode*> allPossibleFBT(int n) {
         if(n%2==0) return {};
 
-        return helper(n);
+        vector<vector<TreeNode*>> dp(n+1);
+
+        return helper(n,dp);
     }
 };
