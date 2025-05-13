@@ -15,11 +15,28 @@ public:
             }
         }
 
-        long long sum=dp[n-1][m-1];
-        if(sum%2!=0) return false;
+        if(dp[n-1][m-1]%2!=0) return false;
+        long long target=dp[n-1][m-1]/2;
 
-        for(int i=0;i<n;i++) if(dp[i][m-1]==sum/2 ) return true;
-        for(int i=0;i<m;i++) if(dp[n-1][i]==sum/2 ) return true;
+        int l=0,r=n-1;
+
+        while(l<=r){
+            int mid=(l+r)/2;
+
+            if(dp[mid][m-1]==target ) return true;
+            else if(dp[mid][m-1] > target) r=mid-1;
+            else l=mid+1;
+        }
+
+        l=0,r=m-1;
+        while(l<=r){
+            int mid=(l+r)/2;
+
+            if(dp[n-1][mid]==target ) return true;
+            else if(dp[n-1][mid] > target) r=mid-1;
+            else l=mid+1;
+        }
+
 
         return false;
     }
