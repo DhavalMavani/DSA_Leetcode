@@ -362,6 +362,7 @@
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3849-equal-sum-grid-partition-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3849-equal-sum-grid-partition-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -524,6 +525,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3849-equal-sum-grid-partition-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1234,6 +1236,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3849-equal-sum-grid-partition-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3849-equal-sum-grid-partition-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1510,6 +1513,7 @@
 | [1656-count-good-triplets](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/2998-count-symmetric-integers) |
 | [3210-count-beautiful-substrings-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3210-count-beautiful-substrings-i) |
+| [3849-equal-sum-grid-partition-i](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/3849-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
 | ------- |
