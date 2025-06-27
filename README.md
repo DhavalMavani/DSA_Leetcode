@@ -262,6 +262,7 @@
 | [1017-odd-even-jump](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1017-odd-even-jump) |
 | [1019-squares-of-a-sorted-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1028-interval-list-intersections) |
+| [1031-add-to-array-form-of-integer](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1031-add-to-array-form-of-integer) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1105-uncrossed-lines) |
@@ -825,6 +826,7 @@
 | [0909-stone-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0909-stone-game) |
 | [0956-number-of-music-playlists](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0956-number-of-music-playlists) |
 | [0976-minimum-area-rectangle](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0976-minimum-area-rectangle) |
+| [1031-add-to-array-form-of-integer](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1240-stone-game-ii) |
 | [1500-count-largest-group](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1500-count-largest-group) |
