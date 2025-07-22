@@ -214,6 +214,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0414-third-maximum-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0436-find-right-interval) |
@@ -1137,6 +1138,7 @@
 | [0295-find-median-from-data-stream](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0451-sort-characters-by-frequency) |
