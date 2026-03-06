@@ -1,24 +1,24 @@
 class Solution {
 public:
-    vector<int> spiralOrder(vector<vector<int>>& mat) {
-        int l=0,r=mat[0].size()-1,t=0,b=mat.size()-1;
-        
+    vector<int> spiralOrder(vector<vector<int>>& matrix) {
         vector<int> ans;
+        int lcol=0, rcol=matrix[0].size()-1,trow=0, brow=matrix.size()-1;
 
-        while(l<=r && t<=b){
-            for(int i=l;i<=r;i++) ans.emplace_back(mat[t][i]);
-            t++;
-
-            for(int i=t;i<=b;i++) ans.emplace_back(mat[i][r]);
-            r--;
-
-            if(l>r || t>b) break;
+        while(lcol<=rcol && trow<=brow){
             
-            for(int i=r;i>=l;i--) ans.emplace_back(mat[b][i]);
-            b--;
+            for(int i=lcol; i<=rcol;i++) ans.emplace_back(matrix[trow][i]);
+            trow++;
 
-            for(int i=b;i>=t;i--) ans.emplace_back(mat[i][l] );
-            l++;
+            for(int i=trow;i<=brow;i++) ans.emplace_back(matrix[i][rcol]);
+            rcol--;
+
+            if(lcol>rcol || trow>brow) break;
+
+            for(int i=rcol;i>=lcol; i--) ans.emplace_back(matrix[brow][i]);
+            brow--;
+
+            for(int i=brow;i>=trow;i--) ans.emplace_back(matrix[i][lcol]);
+            lcol++;
         }
 
         return ans;
