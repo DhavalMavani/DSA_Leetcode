@@ -1573,4 +1573,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/1086-divisor-game) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
