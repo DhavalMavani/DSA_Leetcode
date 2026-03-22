@@ -188,6 +188,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -374,6 +375,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DhavalMavani/Leetcode-Blind-150/tree/master/0300-longest-increasing-subsequence) |
